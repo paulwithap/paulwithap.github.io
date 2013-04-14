@@ -3,11 +3,12 @@
 body {
   padding-top: 60px; }
 
+a {
+  color: #000; }
+
 .post {
   font-size: 1.3em;
   line-height: 1.55em; }
-  .post:after {
-    content: "<hr>"; }
 
 @media (max-width: 768px) {
   .post {
