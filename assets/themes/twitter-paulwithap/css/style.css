@@ -1,6 +1,8 @@
 /* Site Styles
 ==============================*/
 body {
-  padding-top: 60px;
+  padding-top: 60px; }
+
+.post {
   font-size: 1.15em;
   line-height: 1.4em; }
