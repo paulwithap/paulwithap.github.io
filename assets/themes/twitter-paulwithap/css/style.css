@@ -5,6 +5,9 @@ body {
 
 a {
   color: #000; }
+  a:hover {
+    text-decoration: none;
+    color: #777; }
 
 .post {
   font-size: 1.3em;
@@ -14,3 +17,6 @@ a {
   .post {
     font-size: 1.15em;
     line-height: 1.4em; } }
+#posts {
+  font-size: 1.15em;
+  line-height: 1.4em; }

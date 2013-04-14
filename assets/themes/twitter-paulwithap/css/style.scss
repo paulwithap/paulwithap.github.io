@@ -6,6 +6,11 @@ body {
 
 a {
   color: #000;
+
+  &:hover {
+    text-decoration: none;
+    color: #777;
+  }
 }
 
 .post {
@@ -18,4 +23,9 @@ a {
     font-size: 1.15em;
     line-height: 1.4em;
   }
+}
+
+#posts {
+  font-size: 1.15em;
+  line-height: 1.4em;
 }
