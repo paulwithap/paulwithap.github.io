@@ -7,6 +7,10 @@ body {
 .post {
   font-size: 1.3em;
   line-height: 1.55em;
+
+  &:after {
+    content: "<hr>"
+  }
 }
 
 @media(max-width: 768px) {
