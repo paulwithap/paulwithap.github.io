@@ -5,6 +5,13 @@ body {
 }
 
 .post {
-  font-size: 1.15em;
-  line-height: 1.4em;
+  font-size: 1.3em;
+  line-height: 1.55em;
+}
+
+@media(max-width: 768px) {
+  .post {
+    font-size: 1.15em;
+    line-height: 1.4em;
+  }
 }

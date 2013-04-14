@@ -3,7 +3,7 @@ layout: post
 title: "Ubuntoops"
 description: ""
 category: 
-tags: []
+tags: [linux, ubuntu, rookie-mistakes]
 ---
 {% include JB/setup %}
 
@@ -12,6 +12,7 @@ A while back, I installed Ubuntu on my old, shitty Dell laptop (it's actually th
 I never use the Windows Vista installation I have on the rest of the hard drive, and didn't see any reason to keep it, so I did the smart, simple thing and just deleted the partition. There were also some weird, Dell-installed partitions that didn't seem to be doing me any good, so I deleted those as well. Lightning didn't strike me out of my computer chair, so I thought I was in the clear.
 
 Then, I left my Dell unplugged for a while, because I needed the outlet, and it died. When I tried starting it up, I got a lovely welcome message:
+
     BOOTMGR is missing
     Press Ctrl+Alt+Del to restart
 
