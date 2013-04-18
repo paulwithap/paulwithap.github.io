@@ -2,7 +2,7 @@
 layout: post
 title: "Ubuntoops"
 description: ""
-category: 
+category: Linux
 tags: [linux, ubuntu, rookie-mistakes]
 ---
 {% include JB/setup %}
